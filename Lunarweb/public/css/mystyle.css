@@ -1,0 +1,278 @@
+.navbar-dark {
+  --bs-navbar-color: rgb(255, 255, 255);
+  --bs-navbar-hover-color: rgb(170, 170, 170);
+  --bs-navbar-brand-color: rgba(255, 255, 255);
+  --bs-navbar-brand-hover-color: rgba(170, 170, 170);
+
+
+}
+
+.fa-solid {
+  color: rgb(255, 255, 255);
+}
+
+.fejlec {
+  background-color: rgba(12, 3, 52, 0.646);
+  padding: 0;
+  height: 90px;
+  margin-top: -90px;
+  /* width: 1480px; */
+
+
+}
+
+.diszlec {
+  /* z-index: -1; */
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+  /* padding-top: -180px; */
+}
+
+.bejelentkezes {
+  margin-right: 100px;
+  color: aquamarine;
+  background-color: rgb(4, 4, 65);
+  text-shadow: 4px 4px 5px #101010;
+  font-size: medium;
+  border-radius: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  padding: 5px 10px 5px 10px;
+
+}
+
+
+.bejelentkezes:hover {
+  box-shadow: 0px 5px 8px 0px #0d1851, 0px 2px 10px 0px #18034c;
+}
+
+.linkek {
+  color: aquamarine;
+  font-size: 25px;
+  text-shadow: 4px 4px 5px #101010;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
+
+.linkek:hover {
+  color: rgb(52, 161, 125);
+  font-size: 28px;
+}
+
+.myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+
+.column {
+  float: left;
+  width: 23.90%;
+  padding: 5px;
+
+}
+.kep1 {
+  border-radius: 100px;
+  border: 3px solid rgba(146, 168, 165, 0.47);
+  background: rgba(138, 150, 149, 0.304);
+  
+}
+
+.kep1:hover {
+  width: 170px;
+  height: 170px;
+  border: 5px inset #76ccb8bb;
+  
+}
+
+.welcomeimg{
+text-align: center;
+padding-bottom: 30px;
+padding-top: 30px;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+.welcomeimg a{
+  text-decoration: none;
+}
+.hattervid{
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.korbefutas p img {
+  float: left;
+  margin-right: 10px;
+}
+.szoveg {
+  margin-bottom: 60px;
+  margin-top: 0px;
+  width: 90%;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #686868;
+  color: #484848;
+  font-weight: bold;
+  text-align: justify;
+  line-height: 40px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.video1 {
+  margin-bottom: 50px;
+  width: 600px;
+  height: 300px;
+}
+.duma4 {
+  text-align:justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  line-height: 30px;
+  color: rgb(3, 3, 67);
+  width: 80%;
+
+}
+.duma3 {
+  text-align: justify;
+  width: 80%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  line-height: 30px;
+  color: rgb(3, 3, 67);
+  margin-top: 80px;
+  text-shadow: 2px 2px 4px #686868;
+}
+
+.elöföld {
+  background-color: rgba(237, 207, 170, 0.724);
+  margin-bottom: 0px;
+}
+
+.video {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+.fold {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  opacity: 0.8;
+
+
+}
+
+.maghatter {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.4;
+
+
+}
+
+.motto {
+  font-style: oblique;
+  text-shadow: 2px 2px 4px #686868;
+  color: #484848;
+}
+
+.hattersoil {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  margin-top: 200px;
+}
+
+.magkepek {
+  margin-left: 120px;
+  padding-top: 20px;
+
+
+}
+
+.kep4 {
+  margin-left: 140px;
+  border-radius: 10px;
+  opacity: 0.9;
+  width: 275px;
+  height: 183px;
+  border: 3px solid rgb(169, 167, 167);
+  background: rgba(222, 182, 137, 0.785);
+  padding: 5px 5px;
+
+}
+
+.lab {
+  background-color: rgb(18, 5, 71);
+  color: aquamarine;
+  
+}
+.yield{
+  min-height: 580px;
+}
+.kilepes{
+  width: 200px;
+  font-size: larger;
+}
+.regablak {
+  background-color: rgba(24, 14, 91, 0.968);
+  color:rgba(116, 247, 203, 0.836);
+}
+.regablak input{
+  background-color: rgb(180, 238, 239);
+}
+.regablak a{
+color: rgba(116, 247, 203, 0.836);;  
+}
+.linkek{
+  border-radius: 100px;
+  margin-top: 20px;
+}
+.zoldseglinkek{
+  border-radius: 100px;
+  object-fit: cover;
+  width: 120px;
+  height: 120px;
+  border: 2px solid rgba(16, 5, 58, 0.76);
+  
+}
+.zoldseglinkek:hover{
+  width: 150px;
+  height: 150px;
+  border: 4px inset rgba(94, 205, 187, 0.687);
+  
+  
+}
+.profgomb{
+  fill: rgb(112, 227, 188);
+}
+.profgomb:hover{
+  fill:rgb(171, 239, 216)
+  
+}
+
+
+@media only screen and (max-width: 992.59px) {
+  .fejlec {
+    background-color: rgb(12, 3, 49);
+  }
+
+  .fejlec1 {
+    background-color: rgb(12, 3, 49);
+  }
+}
